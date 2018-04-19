@@ -9,3 +9,6 @@ Setup
 Run the server using command 'python <path>server.py' (Server is running on localhost with port 5000)
 Run the web client on Firefox browser using http:\\localhost:5000
 Multiple instances of the server can be run parallely on Firefox browser for chatting.
+  
+Script:
+Added a small script using Unittest framework capturing the response of the Server.
